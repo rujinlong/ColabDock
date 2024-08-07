@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from colabdesign.af.utils import save_pdb_from_aux, cal_iptm
 from colabdesign import mk_afdesign_model, clear_mem
 

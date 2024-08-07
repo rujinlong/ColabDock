@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import ml_collections
 import joblib
 
